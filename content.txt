@@ -1,5 +1,7 @@
-# Hantamask Project Content
+# HANTAMASK: Project Content Generation
+
+---
 
 ## 1. Project Lore
 
-In the year 2087, the great Rodent Uprising left humanity scrambling for survival. The Hantavirus had mutated beyond recognition, spreading through the air like whispered secrets between shadows. From
+In 2087, the Hantavirus mutated beyond containment. Cities
