@@ -1,7 +1,45 @@
-# HANTAMASK: Project Content Generation
-
----
+# HANTAMASK
 
 ## 1. Project Lore
 
-In 2087, the Hantavirus mutated beyond containment. Cities
+In 2019, an unnamed Zurich-based cryptography studio began developing a wallet protocol for "high-risk asset containment." The project was shelved after regulators questioned why the interface resembled biosafety cabinet controls. Three years later, the source code surfaced on an obscure pastebin — annotated entirely in haiku.
+
+HANTAMASK emerged from that leak. The biohazard trefoil was never meant to be a mascot; it was a warning label on the original hardware prototype's casing. Early adopters kept the symbol as an inside joke. The joke became a brand. The brand became a philosophy: treat your portfolio like a pathogen — isolate it, contain it, let nothing escape without authorization.
+
+Today, HANTAMASK operates on a single principle borrowed from Level 4 laboratories: redundancy is not paranoia, it is protocol. Every transaction passes through airlocked confirmation. Every seed phrase is treated as a controlled substance. The wallet doesn't ask if you're sure. It assumes you're never sure enough.
+
+## 2. Twitter Bio
+
+Premium crypto containment. Biohazard-grade security for your bags. STORE THE STRAIN. Not affiliated with any real wallet.
+
+## 3. Twitter Post Captions
+
+**Post 1 — SEND Function (absurdist)**
+You wouldn't hand someone a vial without gloves. SEND with HANTAMASK. Outbound transfers require three confirmations and a moment of silence. GUARD YOUR BAGS.
+
+**Post 2 — COLD STORAGE (hype)**
+Some things belong in deep freeze. Our hardware module maintains cryptographic dormancy at institutional grade. No network exposure. No contamination. PREMIUM CRYPTO STORAGE.
+
+**Post 3 — MULTI-SIG (community)**
+One signature is a liability. HANTAMASK MULTI-SIG requires team consensus before any asset leaves containment. Built for crews who trust process over individuals. YOUR KEYS, YOUR CULTURE.
+
+**Post 4 — STAKING (lore drop)**
+Early internal docs called staking "quarantine yield." Lock assets in isolation. Receive emissions over time. The longer the containment, the higher the exposure bonus. BUILT FOR DEGENS.
+
+**Post 5 — SWAP (meme format)**
+Him: "I use a regular wallet."
+Her: "That's fine."
+*[narrator voice]*
+It was not fine. SWAP with biohazard-grade slippage protection or don't swap at all. STORE THE STRAIN.
+
+## 4. Landing Page Headline
+
+"Containment-Grade Crypto Storage"
+
+## 5. Landing Page Subheadline
+
+Your portfolio is volatile. Your wallet shouldn't be. HANTAMASK brings laboratory-grade isolation protocols to digital asset management.
+
+## 6. Project Meta
+
+{"ticker":"$HANTA","theme":"containment","colors":"sterile white and matte tungsten","mascot":"minimalist biohazard trefoil rendered in brushed metal with subtle frosted glow","vibe":"clinical"}
